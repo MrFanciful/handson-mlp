@@ -9,7 +9,7 @@ checkpoint
 /logs
 /tmp
 /images
-my_*
+
 /datasets
 *.secret
 __pycache__/
